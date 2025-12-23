@@ -23,10 +23,10 @@ A simple React.js authentication UI project built as part of an interview / inte
 ## 📸 Screens
 - Sign In Page
 - Sign Up Page
-
 ## 🌐 Live Demo
-👉 **Hosted Link:**  
-(Add your Vercel link here after deployment)
+👉 https://just-create-page.vercel.app
+
+https://just-create-page.vercel.app
 
 ## 📦 GitHub Repository
 👉 https://github.com/subbu-lovely/just-create-page
