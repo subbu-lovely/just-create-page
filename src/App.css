@@ -1,0 +1,100 @@
+* {
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.app-wrapper {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mobile-container {
+  width: 380px;
+  height: 680px;
+  background: #ffffff;
+  border-radius: 22px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
+  padding: 30px 22px;
+}
+
+/* ---------- COMMON ---------- */
+
+h2 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #333;
+}
+
+.form-group {
+  margin-bottom: 16px;
+}
+
+input {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  outline: none;
+}
+
+input:focus {
+  border-color: #667eea;
+}
+
+/* ---------- BUTTONS ---------- */
+
+.primary-btn {
+  width: 100%;
+  padding: 13px;
+  border: none;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.primary-btn:hover {
+  opacity: 0.9;
+}
+
+.secondary-btn {
+  width: 100%;
+  padding: 12px;
+  margin-top: 12px;
+  border-radius: 10px;
+  background: transparent;
+  border: 1px solid #667eea;
+  color: #667eea;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.secondary-btn:hover {
+  background: #667eea;
+  color: white;
+}
+
+/* ---------- LINK ROW ---------- */
+
+.link-row {
+  text-align: center;
+  margin-top: 18px;
+  font-size: 14px;
+}
+
+.link-row span {
+  color: #667eea;
+  cursor: pointer;
+  font-weight: 600;
+}
