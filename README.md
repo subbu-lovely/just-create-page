@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# Just Create Page 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple React.js authentication UI project built as part of an interview / internship assignment.
 
-## Available Scripts
+## 🔥 Features
+- Sign In page (Email & Password)
+- Create Account page
+  - Name
+  - Password
+  - Confirm Password
+  - Village
+- Clean and responsive UI
+- Modern website-style layout
+- Client-side routing using React Router
 
-In the project directory, you can run:
+## 🛠 Tech Stack
+- React JS (Create React App)
+- React Router DOM
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
-### `npm start`
+## 📸 Screens
+- Sign In Page
+- Sign Up Page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🌐 Live Demo
+👉 **Hosted Link:**  
+(Add your Vercel link here after deployment)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📦 GitHub Repository
+👉 https://github.com/subbu-lovely/just-create-page
 
-### `npm test`
+## ⚙️ Installation & Run Locally
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/subbu-lovely/just-create-page.git
+cd just-create-page
+npm install
+npm start
